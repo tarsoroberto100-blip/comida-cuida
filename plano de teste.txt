@@ -1,0 +1,16 @@
+Escopo:
+Um app de delivery com varios erros visuals, e na parte logica do codigo.
+
+Estrategia:
+Primeiro analisei a interfaçe da aplicação e vi que havia erros gramaticais, paletas de cores confusas, e erro no calculo da operação, depois
+analisei o codigo e corrigi os erros da aplicação.
+
+Recursos:
+paletas de cores erradas, erro no caluco, e erros gramaticais.
+
+
+Cronograma:
+Iniciei a operação por volta das 19:23, e terminei por volta de 19:33, demorei em torno de 10 minutos para terminar a operação por completo.
+
+Ferramentas ultilizadas na operação:
+Git/GitHub Desktop, VScode.
