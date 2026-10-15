@@ -1,0 +1,12 @@
+Objetivo:
+Testar a operação relacionada a um app de delivery, e analisar para ver se encontra algum erro. 
+
+Contexto inicial:
+Uma aplicação focada em delivery de comida, que apresentava varios erros visuais, e na sua parte logica. 
+
+Ação Executada:
+vi que na parte visual tinha erros nas paletas de cores e na parte gramatical, indo mais afundo na parte da soma dos valores do lanche
+e da entrega nao estavam sendo somados, e sim multiplicando, então consertei tudo.
+
+Saída Esperada:
+Que as modificações do codigo sejam consertados, e quando colocados para rodar funcionem sem erros.
