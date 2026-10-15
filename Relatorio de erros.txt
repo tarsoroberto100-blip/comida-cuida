@@ -1,0 +1,10 @@
+Passos para reproduzir:
+Preencher o campo: valor do lanche, e para onde o pedido ira ser enviado, e se quiser pode colocar adicionar cupom de desconto
+depois so apertar em realizar pedido.
+
+Resultado obtido:
+Tinha erros gramaticais, e quando eu preenchia os campos obrigatorios e apertava em realizar pedido vi que existia um erro na parte
+do calculo do valor do pedido, inves de somar o valor do pedido estava sendo multiplicdo.
+
+Resultado esperado:
+Paletas de cores covenientes, gramatica corrigida, e calculo do pedido correto.
